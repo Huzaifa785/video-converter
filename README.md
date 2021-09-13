@@ -9,5 +9,8 @@ https://user-images.githubusercontent.com/70282139/133018524-7eebc358-850b-4742-
 - Step No. 4: Run `npm install` in the backend folder.
 - Step No. 5: Go to the "backend" folder.
 - Step No. 6: Open up the terminal and run this command: `npm run dev` for starting the server.
-- Step No. 7: Go to the folder which contains all other folders like "client", "backend".
-- Step No. 8: Open up the terminal and run this command: `npm run dev` to open up the electron app.
+- Step No. 7: Create a 'video" folder inside the "backend" folder.
+- Step No. 8: Create a "HLS" folder inside the "video" folder
+- Step No. 9: Create a "uploaded" folder inside the "video" folder.
+- Step No. 10: Go to the folder which contains all other folders like "client", "backend".
+- Step No. 11: Open up the terminal and run this command: `npm run dev` to open up the electron app.
