@@ -13,7 +13,7 @@ function createWindow() {
   if (isDev) {
     win.loadURL("https://convert-mp4-to-hls.netlify.app/");
   } else {
-    win.loadFile("front/build/index.html");
+    win.loadFile("client/build/index.html");
   }
 }
 
